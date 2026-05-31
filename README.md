@@ -2,6 +2,8 @@
 
 A Python-based AirPlay screen mirroring receiver that allows wireless display from iOS/macOS devices (iPad, iPhone, Mac) to a Windows PC.
 
+![Screen Mirroring Demo](screenshot.png)
+
 ## Architecture
 
 ```
